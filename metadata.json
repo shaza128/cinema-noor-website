@@ -1,0 +1,6 @@
+{
+  "name": "Noor Cinema",
+  "description": "منصة نور سينما الرقمية وبوابة الدراما التاريخية والروائع السينمائية الهادفة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
