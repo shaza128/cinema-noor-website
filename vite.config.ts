@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/cinema-noor-website/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
